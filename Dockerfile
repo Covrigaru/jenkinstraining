@@ -1,2 +1,2 @@
-FROM hshar/webapp
+FROM Covrigaru/webapp
 ADD ./devopsIQ /var/www/html/devopsIQ
