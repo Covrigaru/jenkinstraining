@@ -1,2 +1,2 @@
-FROM Covrigaru/jenkinstraining
+FROM covrigaru/jenkinstraining
 ADD ./devopsIQ /var/www/html/devopsIQ
